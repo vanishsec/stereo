@@ -1,1 +1,1 @@
-stereocord but for powercord
+Stereo Audio
